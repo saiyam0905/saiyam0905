@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saiyam Rawat</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently student of **Information Technology.**
 
 - 👯 I’m looking to collaborate on **Web Developmnet Projects.**
 
