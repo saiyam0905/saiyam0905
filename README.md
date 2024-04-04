@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Developmnet Projects.**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,MYSql**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, MYSql**
 
 - 📫 How to reach me **saiyam0905@gmail.com.**
 
