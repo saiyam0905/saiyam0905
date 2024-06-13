@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saiyam Rawat</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.mos.cms.futurecdn.net/anTz4hSeGapEKZGiTgZah3-970-80.gif">
+<img align="right" alt="coding" width="500" src="https://cdn.mos.cms.futurecdn.net/anTz4hSeGapEKZGiTgZah3-970-80.gif">
 
 - 🌱 I’m currently learning *App Development.*
 
