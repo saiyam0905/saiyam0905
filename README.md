@@ -10,7 +10,7 @@
 
 - 📫 How to reach me *saiyamr0905@gmail.com*
 
-- 📄 Know about my experiences [(https://tinyurl.com/saiyam-resume)](https://drive.google.com/file/d/17EAPromDU5RqNh_OlkE6G8EK68oETfuj/view?usp=sharing)
+- 📄 Know about my experiences [(https://tinyurl.com/saiyam-resume)](https://drive.google.com/file/d/1AJWsgEQ_9bclgl_AIKg94omSBY0rm-Ye/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
