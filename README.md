@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on *Software Development Projects*
 
-- 💬 Ask me about *HTML, CSS, Javascript, React, MYSql, Typescript.*
+- 💬 Ask me about *HTML, CSS, Javascript, React, MYSql.*
 
 - 📫 How to reach me *saiyamr0905@gmail.com*
 
